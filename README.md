@@ -5,3 +5,4 @@ Simple Datapack that removes all caves from Minecraft's Overworld.
 
 The Small Stone Lava Pool features, Amethyst Geodes, and all Underground Structures still generate.
 
+[Release Page](https://github.com/Quidvio/No-Caves-Datapack/releases/tag/V1)

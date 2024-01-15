@@ -4,24 +4,17 @@
     "pack_format": 15,
     "supported_formats": [
       15,
-      26
+      999
     ]
   },
   "overlays": {
     "entries": [
       {
         "formats": [
-          17,
-          18
+          999,
+          999
         ],
-        "directory": "1-20-2-pack"
-      },
-      {
-        "formats": [
-          19,
-          26
-        ],
-        "directory": "1-20-3-pack"
+        "directory": "overlay1"
       }
     ]
   }
